@@ -40,7 +40,7 @@ By studying historical patterns, we can:
 ---
 
 ## Connect with Me
-- [LinkedIn Profile]: https://wwww.Linkedin.com/in/Anupreet1601
-- [Tableau Public Profile]: https://www.github.com/anupreet-yadav
+- [LinkedIn Profile]: Anupreet1601
+- [Tableau Public Profile]: anupreet-yadav
 
 ---
